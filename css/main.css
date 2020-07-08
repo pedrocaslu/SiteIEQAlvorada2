@@ -1,9 +1,9 @@
 body{
     width: 100%;
-    height: 200vh;
+    
     margin: 0rem;
 }
-.container-fluid
+ body > .container-fluid
 {
     padding-left: 0 !important;
     padding-right: 0 !important;
@@ -39,6 +39,33 @@ body{
 .logoIEQ{
     height: 90px;
 }
+.session{
+    margin-top: 7rem;
+}
+.session-one,
+.session-two{
+    height: 70vh;
+    width: 100%;
+    padding: 0.7rem;
+}
+
+.session-one{
+    background-color: whitesmoke;
+}
+.session-two{
+    background-color: royalblue;
+}
 .rodape {
-    
+    height: 7rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
 }
