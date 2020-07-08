@@ -9,6 +9,8 @@ body{
     padding-right: 0 !important;
 }
 .menu-principal {
+
+    
     position: fixed;
     background-color: black;
     padding: 0.7rem;
