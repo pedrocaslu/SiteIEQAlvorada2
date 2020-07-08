@@ -1,0 +1,44 @@
+body{
+    width: 100%;
+    height: 200vh;
+    margin: 0rem;
+}
+.container-fluid
+{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.menu-principal {
+    position: fixed;
+    background-color: black;
+    padding: 0.7rem;
+    height: 7rem; 
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.positionLogo{
+    position:absolute;
+}
+
+.menu{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.btn btn-dark{
+    font-family: fantasy;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.logoIEQ{
+    height: 90px;
+}
+.rodape {
+    
+}
