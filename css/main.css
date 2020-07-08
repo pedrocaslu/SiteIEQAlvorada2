@@ -10,7 +10,7 @@ body{
 }
 .menu-principal {
 
-    
+
     position: fixed;
     background-color: black;
     padding: 0.7rem;
@@ -38,26 +38,26 @@ body{
     padding: 10px;
 }
 
-.logoIEQ{
+.logoIEQ{   
     height: 90px;
-}
-.session{
-    margin-top: 7rem;
-}
-.session-one,
-.session-two{
+}   
+.session{   
+    margin-top:7rem;
+}   
+.session-one,   
+.session-two{   
     height: 70vh;
     width: 100%;
     padding: 0.7rem;
-}
+}   
 
-.session-one{
-    background-color: whitesmoke;
-}
-.session-two{
-    background-color: royalblue;
-}
-.rodape {
+.session-one{   
+    background-color: #464646;
+}   
+.session-two{   
+    background-color: #757575;
+}   
+.rodape {   
     height: 7rem;
     text-align: center;
     background-color: black;
@@ -71,3 +71,4 @@ body{
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+

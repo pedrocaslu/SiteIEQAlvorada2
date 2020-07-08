@@ -1,0 +1,22 @@
+.slider{
+padding: 0;
+margin: 0;
+}
+.slide{
+    display: block;
+    height: 293px;
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+}
+.slide li{
+    list-style: none;
+    position: absolute;
+}
+.slide img{
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    vertical-align: top;
+}
